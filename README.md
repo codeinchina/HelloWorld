@@ -1,2 +1,5 @@
 # hello-world
-first-repo
+
+## First Repo
+1. learn
+2. operate
