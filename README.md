@@ -1,4 +1,4 @@
-# hello-world
+# HelloWorld
 
 ## First Repo
 1. learn
